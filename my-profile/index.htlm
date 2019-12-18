@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+                <title>Bienvenue dans la vie de Mathilde Scafidis</title>
+                <meta charset="utf-8">
+                <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="container">
+                <div class="card-design">
+                  <h1>Bienvenue dans la vie de Mathilde Scafidis 🌍 </h1>
+                  <img src="" class="" alt="">
+                  <p>Je suis étudiante en commerce au pôle léonard de vinci. Je suis une personne curieuse dans tout ce que je fais, j'aime apprendre. Je suis aussi très joyeuse dans la vie de tous les jours.  </p>
+                  <a href="https://www.emlv.fr/" target="_blank" class="btn-blue">Ceci est le pôle léonard de vinci où se trouve mon école de management.</a>
+                 
+                
+     </div>
+    <div class="card-design">
+     <h2>MY PROFESSIONAL JOURNEY...</h2>
+                  <p>J'ai obtenu un bac STMG spécialité marketing. Je me suis ensuite dirigée vers une école de management car j'avais envie d'approfondir mes connaissances acquises déjà en terminale. 
+                  De plus, j'ai fais un stage d'un mois au Pullman La défense en été. </p>
+     </div>
+    <div class="card-design">
+                              
+                <h2>HOBBIES...</h2>
+                <p>Je suis une personne très dynamique alors j'ai besoin de faire du sport afin de me canaliser. Je pratique de la boxe thailandaise depuis 3 ans et cette année, je me suis inscrite à la salle de sport.
+                Sinon, j'aime beaucoup lire afin de développer ma culture générale. Mes livres préférés restent sur la science. Enfin, j'aime énormement cuisiner et tester de nouvelles recettes.</p>
+                
+                </div>
+    <div class="card-design">
+                <h2>TRAVEL...</h2>
+                <p>Voyager est ce que j'aime le plus dans la vie. Je trouve ça enrichissant et j'ai soif de connaître le plus de cultures et de langues possible. C'est pour cela aussi que j'ai choisi mon école, car je partirais un an à l'étranger en troisième année de mon cursus.<p>
+ 
+ 
+               
+ 
+     </div>
+</div>
+               
+               
+               
+ 
+</body>
+</html>
